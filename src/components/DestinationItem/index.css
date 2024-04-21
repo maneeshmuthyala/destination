@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  min-width: 45vh;
+}
+.img {
+  height: 20vh;
+  width: 30vw;
+  margin: 10px;
+}

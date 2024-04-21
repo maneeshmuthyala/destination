@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 100vw;
+}
+.header {
+  font-family: Roboto;
+  font-size: 39px;
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.inp {
+  font-family: Roboto;
+  font-size: 27px;
+  height: 70px;
+  width: 350px;
+  background-color: #f1f5f9;
+  border-radius: 5px;
+  border-width: 0px;
+}
